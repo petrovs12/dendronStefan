@@ -2,6 +2,10 @@ site:
     siteHierarchies:
         - dendron
     siteRootDir: docs
+    siteUrl: https://petrovs12.github.io
+    assetsPrefix: dendonStefan
 vaults:
     -
-        fsPath: /Users/kevinlin/projects/dendronv2/dendron-template/vault
+        fsPath: vault 
+
+version: 4.
