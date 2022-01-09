@@ -1,9 +1,12 @@
 site:
+    copyAssets: true
     siteHierarchies:
-        - dendron
+        - root
     siteRootDir: docs
     siteUrl: https://petrovs12.github.io
     assetsPrefix: dendonStefan
+    usePrettyRefs: true
+    title: Stefan's Personal Dendron Notes
 vaults:
     -
         fsPath: vault 
